@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.smibii.cameraman.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cameraman.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "CameraMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

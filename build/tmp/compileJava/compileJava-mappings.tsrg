@@ -1,0 +1,6 @@
+com/smibii/cameraman/mixin/CameraMixin initialized f_90549_
+com/smibii/cameraman/mixin/CameraMixin level f_90550_
+com/smibii/cameraman/mixin/CameraMixin entity f_90551_
+com/smibii/cameraman/mixin/CameraMixin detached f_90560_
+com/smibii/cameraman/mixin/CameraMixin setRotation (FF)V m_90572_
+com/smibii/cameraman/mixin/CameraMixin setPosition (Lnet/minecraft/world/phys/Vec3;)V m_90581_
